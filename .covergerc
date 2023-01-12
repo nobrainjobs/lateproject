@@ -1,5 +1,0 @@
-[run]
-omit = 
-    */_init_.py
-    */migrations/*
-    *.pyc
